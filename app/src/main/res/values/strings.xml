@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Football Squad</string>
+    <string name="ligue1">ligue1</string>
+    <string name="bundesliga">bundesliga</string>
+    <string name="liga">liga</string>
+    <string name="premier_league">PREMIER LEAGUE</string>
+    <string name="seria_a">SERIA A</string>
+    <string name="select_league">Select League</string>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name = "Football Squad"
+include ':app'
+include ':api'
